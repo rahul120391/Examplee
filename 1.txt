@@ -18,7 +18,7 @@ for(i=0;i<5;i++){
 
 
 
-onAttach()
+onAttach()bfkverwkfvekfvekfv
 onCreate();
 onCreateView()
 onActivityCreated()
